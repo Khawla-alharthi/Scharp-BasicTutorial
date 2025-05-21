@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user pc\\source\\repos\\JS-to-CSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26FCC5D3-415F-439C-B74A-DA14DAC6F1A1}|AccessModifiers\\AccessModifiers.csproj|c:\\users\\user pc\\source\\repos\\js-to-csharp\\accessmodifiers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26FCC5D3-415F-439C-B74A-DA14DAC6F1A1}|AccessModifiers\\AccessModifiers.csproj|solutionrelative:accessmodifiers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE7375F1-81EE-449E-A028-D4CFDE3AE7F8}|OOP\\OOP.csproj|c:\\users\\user pc\\source\\repos\\js-to-csharp\\oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE7375F1-81EE-449E-A028-D4CFDE3AE7F8}|OOP\\OOP.csproj|solutionrelative:oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197A0E1A-7B56-4943-B642-4B11C3E09363}|Delegates\\Delegates.csproj|c:\\users\\user pc\\source\\repos\\js-to-csharp\\delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197A0E1A-7B56-4943-B642-4B11C3E09363}|Delegates\\Delegates.csproj|solutionrelative:delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71FDF42D-916A-4D26-85CE-FA5E7AAB1549}|Functions\\Functions.csproj|c:\\users\\user pc\\source\\repos\\js-to-csharp\\functions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71FDF42D-916A-4D26-85CE-FA5E7AAB1549}|Functions\\Functions.csproj|solutionrelative:functions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15415985-DDAD-42DE-8D01-1CE24DD8BF6B}|Iterations\\Iterations.csproj|c:\\users\\user pc\\source\\repos\\js-to-csharp\\iterations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15415985-DDAD-42DE-8D01-1CE24DD8BF6B}|Iterations\\Iterations.csproj|solutionrelative:iterations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C01C2B30-C097-44BD-90D2-3CDE47C39576}|Condtions\\Condtions.csproj|c:\\users\\user pc\\source\\repos\\js-to-csharp\\condtions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C01C2B30-C097-44BD-90D2-3CDE47C39576}|Condtions\\Condtions.csproj|solutionrelative:condtions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051A2A68-06E1-4A53-9390-85CCE421EEDD}|MathematicalOperators\\MathematicalOperators.csproj|c:\\users\\user pc\\source\\repos\\js-to-csharp\\mathematicaloperators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051A2A68-06E1-4A53-9390-85CCE421EEDD}|MathematicalOperators\\MathematicalOperators.csproj|solutionrelative:mathematicaloperators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{457F0CB8-7A11-44A7-8D92-8CF3632A93A6}|Interactions\\Interactions.csproj|c:\\users\\user pc\\source\\repos\\js-to-csharp\\interactions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{457F0CB8-7A11-44A7-8D92-8CF3632A93A6}|Interactions\\Interactions.csproj|solutionrelative:interactions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA88B0C6-B9ED-4831-B7FB-126D5279548D}|DataTypes\\DataTypes.csproj|c:\\users\\user pc\\source\\repos\\js-to-csharp\\datatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA88B0C6-B9ED-4831-B7FB-126D5279548D}|DataTypes\\DataTypes.csproj|solutionrelative:datatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43815883-C3AB-4175-B6D2-F46319466364}|variables\\variables.csproj|c:\\users\\user pc\\source\\repos\\js-to-csharp\\variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43815883-C3AB-4175-B6D2-F46319466364}|variables\\variables.csproj|solutionrelative:variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user pc\\source\\repos\\JS-to-CSharp\\AccessModifiers\\Program.cs",
+              "RelativeDocumentMoniker": "AccessModifiers\\Program.cs",
+              "ToolTip": "C:\\Users\\user pc\\source\\repos\\JS-to-CSharp\\AccessModifiers\\Program.cs",
+              "RelativeToolTip": "AccessModifiers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T19:06:09.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user pc\\source\\repos\\JS-to-CSharp\\OOP\\Program.cs",
+              "RelativeDocumentMoniker": "OOP\\Program.cs",
+              "ToolTip": "C:\\Users\\user pc\\source\\repos\\JS-to-CSharp\\OOP\\Program.cs",
+              "RelativeToolTip": "OOP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:54:25.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user pc\\source\\repos\\JS-to-CSharp\\Delegates\\Program.cs",
+              "RelativeDocumentMoniker": "Delegates\\Program.cs",
+              "ToolTip": "C:\\Users\\user pc\\source\\repos\\JS-to-CSharp\\Delegates\\Program.cs",
+              "RelativeToolTip": "Delegates\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:47:18.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user pc\\source\\repos\\JS-to-CSharp\\Functions\\Program.cs",
+              "RelativeDocumentMoniker": "Functions\\Program.cs",
+              "ToolTip": "C:\\Users\\user pc\\source\\repos\\JS-to-CSharp\\Functions\\Program.cs",
+              "RelativeToolTip": "Functions\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:42:32.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user pc\\source\\repos\\JS-to-CSharp\\Iterations\\Program.cs",
+              "RelativeDocumentMoniker": "Iterations\\Program.cs",
+              "ToolTip": "C:\\Users\\user pc\\source\\repos\\JS-to-CSharp\\Iterations\\Program.cs",
+              "RelativeToolTip": "Iterations\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:38:41.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user pc\\source\\repos\\JS-to-CSharp\\Condtions\\Program.cs",
+              "RelativeDocumentMoniker": "Condtions\\Program.cs",
+              "ToolTip": "C:\\Users\\user pc\\source\\repos\\JS-to-CSharp\\Condtions\\Program.cs",
+              "RelativeToolTip": "Condtions\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:33:27.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user pc\\source\\repos\\JS-to-CSharp\\MathematicalOperators\\Program.cs",
+              "RelativeDocumentMoniker": "MathematicalOperators\\Program.cs",
+              "ToolTip": "C:\\Users\\user pc\\source\\repos\\JS-to-CSharp\\MathematicalOperators\\Program.cs",
+              "RelativeToolTip": "MathematicalOperators\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:26:50.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user pc\\source\\repos\\JS-to-CSharp\\Interactions\\Program.cs",
+              "RelativeDocumentMoniker": "Interactions\\Program.cs",
+              "ToolTip": "C:\\Users\\user pc\\source\\repos\\JS-to-CSharp\\Interactions\\Program.cs",
+              "RelativeToolTip": "Interactions\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:17:18.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user pc\\source\\repos\\JS-to-CSharp\\DataTypes\\Program.cs",
+              "RelativeDocumentMoniker": "DataTypes\\Program.cs",
+              "ToolTip": "C:\\Users\\user pc\\source\\repos\\JS-to-CSharp\\DataTypes\\Program.cs",
+              "RelativeToolTip": "DataTypes\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T17:38:48.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user pc\\source\\repos\\JS-to-CSharp\\variables\\Program.cs",
+              "RelativeDocumentMoniker": "variables\\Program.cs",
+              "ToolTip": "C:\\Users\\user pc\\source\\repos\\JS-to-CSharp\\variables\\Program.cs",
+              "RelativeToolTip": "variables\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T17:20:44.124Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
